@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\alexey\source\repos\CudaRuntime\x64\Debug\CudaRuntime.exe</FullPath>
+      <FullPath>C:\Users\alexey\source\repos\matrix_multiply\matrix_multiply\CudaRuntime\x64\Debug\CudaRuntime.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
